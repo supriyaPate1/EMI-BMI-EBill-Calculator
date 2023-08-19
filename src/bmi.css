@@ -1,0 +1,53 @@
+table{
+    margin-top:5%;
+    text-align: center;
+}
+td{
+    font-size:15px;
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 20px;
+    /* float:left */
+}
+/* .bmi{
+    text-align: center;
+  
+} */
+.display{
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    background: linear-gradient(90deg, rgba(0,36,14,1) 0%, rgba(193,154,207,1) 0%, rgba(183,155,209,1) 0%, rgba(219,217,143,1) 58%, rgba(123,173,196,1) 100%);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.display button{
+    border: 1px solid rgb(179, 11, 11);
+    background-color: rgb(184, 87, 32);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    cursor:pointer ;
+}
+.bmi h1{
+    text-align: center;
+    background-color: rgb(157, 15, 201);
+}
+.display input{
+    padding-top: 9px;
+    padding-bottom:9px;
+    border: 1px solid rgb(179, 11, 11);
+}
+#bm{
+    color:rgb(10, 10, 94)
+}
+#status{
+    color: rgb(187, 79, 7);
+}
+.display select{
+    padding-top: 8px;
+    padding-bottom:8px;
+    border: 1px solid rgb(179, 11, 11);
+}

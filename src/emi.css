@@ -1,0 +1,71 @@
+.table1{
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    background: linear-gradient(90deg, rgba(0,36,14,1) 0%, rgba(193,154,207,1) 0%, rgba(183,155,209,1) 13%, rgba(143,159,219,1) 58%, rgba(0,172,255,1) 100%);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.emi{
+    text-align: center;
+    background-color: rgb(28, 4, 49);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(134, 106, 160);
+  
+}
+
+.table1 input{
+    border: none ;
+    border-bottom: 2px solid rgb(3, 3, 49);
+    outline: none;
+    padding: 2% 1% 2% 1%;
+    font-size: 13px;
+   
+}
+.bt button{
+  padding: 6px 6px 5px 6px;
+  margin-right: 2px;
+  border: 1px solid rgb(68, 4, 68);
+  background-color:rgb(160, 106, 160) ;
+  border-radius: 5px;
+  display: inline;
+  width: 90%;
+}
+
+.table1 td{
+  font-size: 14px;
+ 
+}
+/* .detailtab{
+    width:40%;
+    margin: auto;
+    margin-left: 10px;
+} */
+
+.detailtab td{
+    border: 1px solid black;
+    color: rgb(48, 11, 83);
+   padding-top: 5px;
+   padding-bottom: 5px;
+   
+}
+.allbtn{
+    text-align: center;
+}
+#intr{
+    width:75%;
+}
+#amt{
+    width:75%;
+}
+#EMI{
+    width:75%;
+}
+#yr{
+    width:36.3%;
+} 
+#mon{
+    width:36.3%;
+} 
+
